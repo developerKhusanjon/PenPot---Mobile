@@ -1,2 +1,2 @@
 # neo
-Helper tools for pod management on kubernetes :)
+Helper tools for containering softwares :)
