@@ -1,2 +1,2 @@
 # neo
-Helper tools for containering softwares :)
+Software for containering applications :)
